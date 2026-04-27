@@ -56,11 +56,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
-  working-papers:
-    title: 'Working Papers'
-  conferences:
-    title: 'Conference Papers'
+    title: 'Articles'
+  preprints:
+    title: 'Preprints'
+  short-papers:
+    title: 'Short Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
