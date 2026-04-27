@@ -37,29 +37,21 @@
         </p>
       {% endif %}
 
-      {% if post.paperurl or post.slidesurl or post.bibtexurl %}
-        <p>
-          {% if post.paperurl %}
-            <a href="{{ post.paperurl }}">Paper</a>
-          {% endif %}
+      {% if post.slidesurl or post.bibtexurl %}
+  <p>
+    {% if post.slidesurl %}
+      <a href="{{ post.slidesurl }}">Slides</a>
+    {% endif %}
 
-          {% if post.paperurl and post.slidesurl %}
-            |
-          {% endif %}
+    {% if post.slidesurl and post.bibtexurl %}
+      |
+    {% endif %}
 
-          {% if post.slidesurl %}
-            <a href="{{ post.slidesurl }}">Slides</a>
-          {% endif %}
-
-          {% if post.bibtexurl and (post.paperurl or post.slidesurl) %}
-            |
-          {% endif %}
-
-          {% if post.bibtexurl %}
-            <a href="{{ post.bibtexurl }}">BibTeX</a>
-          {% endif %}
-        </p>
-      {% endif %}
+    {% if post.bibtexurl %}
+      <a href="{{ post.bibtexurl }}">BibTeX</a>
+    {% endif %}
+  </p>
+{% endif %}
 
     {% elsif post.collection == 'teaching' %}
 
