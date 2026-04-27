@@ -13,6 +13,9 @@ My research focuses on latent variable models, multivariate time series, regime-
 
 Previously, I was a researcher at the National Research Council (CNR), Institute for Applied Mathematics and Information Technologies, Milan. I obtained my PhD in Statistics from the University of Milano-Bicocca.
 
+You can find my full curriculum vitae here:  
+[CV (PDF)](/files/CV_Federico_Cortese.pdf){:target="_blank"}
+
 ## Research interests
 
 - Latent variable models
