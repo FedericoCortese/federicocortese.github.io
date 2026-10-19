@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Research Fellow in Statistics at the Department of Economics, Management and Quantitative Methods, University of Milan.
 
-My research focuses on latent variable models, multivariate time series, regime-switching models, unsupervised learning, and statistical learning methods for complex data.
+My research focuses on statistical modeling of latent structures and complex dependence in multivariate time series, spatio-temporal data, and graph-structured data, using both frequentist and Bayesian approaches.
 
 Previously, I was a researcher at the National Research Council (CNR), Institute for Applied Mathematics and Information Technologies, Milan. I obtained my PhD in Statistics from the University of Milano-Bicocca.
 
@@ -18,11 +18,10 @@ You can find my full curriculum vitae here:
 
 ## Research interests
 
-- Latent variable models
-- Multivariate time series analysis
 - Regime-switching models
-- Unsupervised learning
-- Statistical learning for financial and complex data
+- Bayesian nonparametrics for temporal data
+- Dissimilarity-based clustering for complex data
+- Network analysis 
 
 ## Current position
 
