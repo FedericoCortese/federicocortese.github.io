@@ -30,6 +30,4 @@ Department of Economics, Management and Quantitative Methods
 University of Milan  
 Milan, Italy
 
-## Selected topics
 
-My recent work includes statistical jump models, fuzzy clustering methods, sparse modelling, copula models, and applications to financial and cryptocurrency markets.
